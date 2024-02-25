@@ -1,1 +1,1 @@
-# quiz-assignment-full-stack
+# Quiz Assignment Full Stack
